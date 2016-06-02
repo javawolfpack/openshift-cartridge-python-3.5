@@ -13,6 +13,7 @@ Categories:
   - web_framework
   - community
 Website: "http://www.python.org"
+Source-Url: https://github.com/javawolfpack/openshift-cartridge-python-3.5
 Help-Topics:
   "Developer Center": https://openshift.redhat.com/community/developers
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
