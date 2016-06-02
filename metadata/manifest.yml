@@ -1,4 +1,5 @@
 Name: python-3.5
+Cartridge-Short-Name: PYTHON35
 Display-Name: Python 3.5 Cartridge
 Description: "Attempt to use the Community Cartride Manifest and Praisebetoscience Python 3.5 to create 3.5 cartridge"
 Version: 1.0.0
