@@ -5,7 +5,7 @@ Description: "Attempt to use the Community Cartride Manifest and Praisebetoscien
 Version: 1.0.0
 License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
-Vendor:
+Vendor: python.org
 Categories:
   - service
   - python
