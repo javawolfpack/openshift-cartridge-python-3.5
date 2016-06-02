@@ -1,3 +1,2 @@
-Use this URL to install this cartridge:
-
-    https://raw.githubusercontent.com/javawolfpack/openshift-cartridge-python-3.5/master/metadata/manifest.yml
+# OpenShift Python Cartridge
+This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#python).
