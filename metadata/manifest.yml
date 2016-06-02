@@ -1,8 +1,8 @@
 Name: python-3.5
 Cartridge-Short-Name: PYTHON35
-Cartridge-Vendor: bryandixon
 Display-Name: Python 3.5 Cartridge
 Description: "Attempt to use the Community Cartride Manifest and Praisebetoscience Python 3.5 to create 3.5 cartridge"
+Cartridge-Vendor: bryandixon
 Version: 1.0.0
 License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
@@ -13,7 +13,7 @@ Categories:
   - web_framework
   - community
 Website: "http://www.python.org"
-Source-Url: https://github.com/javawolfpack/openshift-cartridge-python-3.5
+Source-Url: git@github.com:javawolfpack/openshift-cartridge-python-3.5.git
 Help-Topics:
   "Developer Center": https://openshift.redhat.com/community/developers
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
